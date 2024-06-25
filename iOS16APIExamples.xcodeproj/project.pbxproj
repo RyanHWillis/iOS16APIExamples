@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		524E2A2A2C2AC49D00F03B49 /* ShareLinkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 524E2A292C2AC49D00F03B49 /* ShareLinkView.swift */; };
+		524E2A2C2C2ACA3600F03B49 /* PhotosPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 524E2A2B2C2ACA3600F03B49 /* PhotosPickerView.swift */; };
 		52B5C83F2C202E2B00A5CD19 /* TextFieldVerticalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52B5C83E2C202E2B00A5CD19 /* TextFieldVerticalView.swift */; };
 		52B5C8412C202E6800A5CD19 /* LineLimitView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52B5C8402C202E6800A5CD19 /* LineLimitView.swift */; };
 		52B5C8432C202F1E00A5CD19 /* PersistentSystemOverlayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52B5C8422C202F1E00A5CD19 /* PersistentSystemOverlayView.swift */; };
@@ -29,6 +31,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		524E2A292C2AC49D00F03B49 /* ShareLinkView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShareLinkView.swift; sourceTree = "<group>"; };
+		524E2A2B2C2ACA3600F03B49 /* PhotosPickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotosPickerView.swift; sourceTree = "<group>"; };
 		52B5C83E2C202E2B00A5CD19 /* TextFieldVerticalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldVerticalView.swift; sourceTree = "<group>"; };
 		52B5C8402C202E6800A5CD19 /* LineLimitView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LineLimitView.swift; sourceTree = "<group>"; };
 		52B5C8422C202F1E00A5CD19 /* PersistentSystemOverlayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersistentSystemOverlayView.swift; sourceTree = "<group>"; };
@@ -97,6 +101,8 @@
 				52B5C8442C202F5200A5CD19 /* ScrollViewChangesView.swift */,
 				52B5C8462C20331400A5CD19 /* PresentationDetentsView.swift */,
 				52B5C8482C20357A00A5CD19 /* GradientsAndShadowsView.swift */,
+				524E2A292C2AC49D00F03B49 /* ShareLinkView.swift */,
+				524E2A2B2C2ACA3600F03B49 /* PhotosPickerView.swift */,
 				52B5C84A2C20389D00A5CD19 /* GridView.swift */,
 				52EA7D802C2028F000C0EABE /* Assets.xcassets */,
 				52EA7D822C2028F000C0EABE /* Preview Content */,
@@ -184,6 +190,7 @@
 			files = (
 				52B5C8572C20403800A5CD19 /* SwiftChartsView.swift in Sources */,
 				52B5C8412C202E6800A5CD19 /* LineLimitView.swift in Sources */,
+				524E2A2C2C2ACA3600F03B49 /* PhotosPickerView.swift in Sources */,
 				52EA7D8B2C2029F700C0EABE /* MultiDatePicker.swift in Sources */,
 				52EA7D8D2C202B7800C0EABE /* PasteButton.swift in Sources */,
 				52B5C8512C203E5700A5CD19 /* AnyLayoutView.swift in Sources */,
@@ -194,6 +201,7 @@
 				52B5C8452C202F5200A5CD19 /* ScrollViewChangesView.swift in Sources */,
 				52B5C8492C20357A00A5CD19 /* GradientsAndShadowsView.swift in Sources */,
 				52EA7D7F2C2028ED00C0EABE /* GaugeView.swift in Sources */,
+				524E2A2A2C2AC49D00F03B49 /* ShareLinkView.swift in Sources */,
 				52B5C84D2C203D0A00A5CD19 /* CustomLayoutView.swift in Sources */,
 				52B5C8552C203F3600A5CD19 /* NavigationSplitViewExample.swift in Sources */,
 				52B5C84F2C203DD600A5CD19 /* ViewThatFitsView.swift in Sources */,
